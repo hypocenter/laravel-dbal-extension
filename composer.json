@@ -1,0 +1,20 @@
+{
+  "name": "hypocenter/laravel-dbal-extension",
+  "version": "0.0.1"
+  "type": "library",
+  "authors": [
+    {
+      "name": "hypo",
+      "email": "hypomail@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Hypocenter\\LaravelDbalExtension\\": "src"
+    }
+  },
+  "require": {
+    "php": ">=5.5.9",
+  }
+}
+
